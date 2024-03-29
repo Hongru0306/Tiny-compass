@@ -1,6 +1,6 @@
 # This is tiny_compass
 
-## 😕Why tiny-compass? 
+## 😃Why tiny-compass? 
 初入`LLM`大门，你是否有类似的困惑:
 
 1. 模型五花八门，垂域任务也五花八门。除了`human_eval`之外，如何对个性化的任务提供有说服力的定量性能指标?  
