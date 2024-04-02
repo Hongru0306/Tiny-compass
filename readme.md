@@ -1,6 +1,6 @@
 # This is tiny_compass
 
-## 😕Why tiny-compass? 
+## 😃Why tiny-compass? 
 初入`LLM`大门，你是否有类似的困惑:
 
 1. 模型五花八门，垂域任务也五花八门。除了`human_eval`之外，如何对个性化的任务提供有说服力的定量性能指标?  
@@ -15,7 +15,7 @@
 ## 🙋What is compass?
 首先要明确评测任务的基础pipeline。下图是评测任务的简要流程： 
 
-![评测图](./docs/compass.png)  
+![评测图](./docs/tiny_compass.png)  
 
 - 首先，根据目标数据集的任务类型指定合理的评测`metric`.
 - 根据目标数据的形式总结模型引导`prompt`.
