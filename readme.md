@@ -9,7 +9,7 @@
 4. 想让`LLM`做选择题,但是模型输出了一大堆,如何评价选择能力?
 
 如果有，那么:   
-<span style="font-size: 24px;">**_tiny-compass is all you need!_**</span>
+&emsp; <span style="font-size: 24px;">***_tiny-compass is all you need!_***</span>
 
 
 ## 🙋What is compass?
